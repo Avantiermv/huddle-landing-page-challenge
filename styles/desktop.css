@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 1442px){
+
+    body{
+        background-image: url(../images/bg-desktop.svg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-color: var(--cor1);
+    }
+
+    header > a > img{
+        width: 250px;
+        padding: 30px;
+        margin: 20px;
+    }
+
+    div#image{
+        float: left;
+        width: 190px;
+        padding: 230px;
+        margin: 80px;
+    }
+
+    div#conteudo{
+        float: right;
+        text-align: left;
+        transform: translate(-110px, 10px);
+    }
+
+    div#conteudo > h1{
+        font-size: 40px;
+        width: 440px;
+    }
+
+    div#conteudo > p{
+        font-size: 20px;
+        width: 565px;
+    }
+
+    div#register{
+        float: left;
+    }
+
+    div#register > input{
+        border-radius: 30px;
+        padding: 20px;
+        width: 190px;
+    }
+
+    footer{
+        position: absolute;
+        bottom: 0px;
+        width: 92%;
+        text-align: right;
+        padding: 30px;
+    }
+}
