@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Avantiermv/huddle-landing-page-challenge)
-- Live Site URL: [Add live site URL here](https://avantiermv.github.io/huddle-landing-page-challenge/)
+- Solution URL: [https://github.com/Avantiermv/huddle-landing-page-challenge]
+- Live Site URL: [https://avantiermv.github.io/huddle-landing-page-challenge/]
 
 ### Built with
 
