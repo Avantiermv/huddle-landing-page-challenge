@@ -13,9 +13,6 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,10 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Add solution URL here](https://github.com/Avantiermv/huddle-landing-page-challenge)
+- Live Site URL: [Add live site URL here](https://avantiermv.github.io/huddle-landing-page-challenge/)
 
 ### Built with
 
@@ -45,18 +40,12 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
-
-
 ### What I learned
 
-
-
-
+I started to understand the flexbox concept. I took some tips and will apply them in the next projects.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Avantiermv](https://www.frontendmentor.io/profile/Avantiermv)
+
 
